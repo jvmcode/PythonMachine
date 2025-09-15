@@ -1,4 +1,4 @@
-# ATIV-04-ET-01 - Analisando a classe football.
+# ATIV-04-ET-01 - Apresentar informações do dataset.
 
 ## Integridade dos Arquivos
 ■ Verifique se todas as imagens listadas no arquivo de informações realmente existem no diretório de imagens e vice-versa.<br>
